@@ -1,5 +1,7 @@
 # Real-Time Chat Application
 
+LIVE DEMO: https://whimsical-malasada-add6e3.netlify.app/ 
+
 A sophisticated real-time chat application built with React, TypeScript, and Supabase. Features multiple chat rooms, real-time messaging, user authentication, and a modern responsive design.
 
 ## Features
